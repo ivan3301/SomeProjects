@@ -1,0 +1,35 @@
+D:\ProjectLib\bin\Release\LibraryDB.mdf
+D:\ProjectLib\bin\Release\LibraryDB_log.ldf
+D:\ProjectLib\bin\Release\ProjectLib.exe.config
+D:\ProjectLib\bin\Release\ProjectLib.exe
+D:\ProjectLib\bin\Release\ProjectLib.pdb
+D:\ProjectLib\obj\Release\ProjectLib.csproj.AssemblyReference.cache
+D:\ProjectLib\obj\Release\ProjectLib.Form_InfoBook.resources
+D:\ProjectLib\obj\Release\ProjectLib.Form_Admin.resources
+D:\ProjectLib\obj\Release\ProjectLib.Form_Authorization.resources
+D:\ProjectLib\obj\Release\ProjectLib.Form_Main.resources
+D:\ProjectLib\obj\Release\ProjectLib.Form_ViewInfo.resources
+D:\ProjectLib\obj\Release\ProjectLib.Properties.Resources.resources
+D:\ProjectLib\obj\Release\ProjectLib.csproj.GenerateResource.cache
+D:\ProjectLib\obj\Release\ProjectLib.csproj.CoreCompileInputs.cache
+D:\ProjectLib\obj\Release\ProjectLib.exe
+D:\ProjectLib\obj\Release\ProjectLib.pdb
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\bin\Release\LibraryDB.mdf
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\bin\Release\LibraryDB_log.ldf
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\bin\Release\ProjectLib.exe.config
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\bin\Release\ProjectLib.exe
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\bin\Release\ProjectLib.pdb
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\bin\Release\System.dll
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\bin\Release\ru\System.resources.dll
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.csproj.AssemblyReference.cache
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.Form_InfoBook.resources
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.Form_Admin.resources
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.Form_Authorization.resources
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.Form_Main.resources
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.Form_ViewInfo.resources
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.Properties.Resources.resources
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.csproj.GenerateResource.cache
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.csproj.CoreCompileInputs.cache
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.csproj.CopyComplete
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.exe
+C:\Users\vipka\OneDrive\Рабочий стол\Готовое для ВКР\Программная система\Проект MS VS 2022\ProjectLib\obj\Release\ProjectLib.pdb

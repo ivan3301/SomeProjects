@@ -1,0 +1,103 @@
+﻿<Window x:Class="Kursovaya2.Students"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursovaya2"
+        mc:Ignorable="d"
+        Title="Студенты" Height="415" Width="730" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style TargetType="Button">  <!--Стиль для кнопок на форме-->
+            <Setter Property="Width" Value="70"/>
+            <Setter Property="Height" Value="20"/>
+            <Setter Property="Background" Value="Lavender"/>
+            <!--Изменение шаблона кнопки-->
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="7" Background="{TemplateBinding Background}" BorderThickness="2" BorderBrush="DarkSlateBlue">
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                        </Border>                        
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <!--Увеличение размеров и изменение цвета 
+            заднего фона кнопки при наведении на нее-->
+                <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Trigger.Setters>
+                        <Setter Property="Width" Value="75"/>
+                        <Setter Property="Height" Value="25"/>
+                        <Setter Property="Background" Value="LightSteelBlue"/>
+                    </Trigger.Setters>
+                </Trigger>
+                <!--Уменьшение размеров и изменение цвета 
+                заднего фона кнопки при нажатии на нее-->
+                <Trigger Property="IsPressed" Value="True">
+                    <Trigger.Setters>
+                        <Setter Property="Width" Value="68"/>
+                        <Setter Property="Height" Value="18"/>
+                        <Setter Property="Background" Value="Lavender"/>
+                    </Trigger.Setters>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style TargetType="DataGrid"> <!--Стиль для DataGrid на форме-->
+            <!--Применение эффекта размытости для DataGrid-->
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="MouseEnter">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="Effect.(BlurEffect.Radius)" To="0"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="MouseLeave">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="Effect.(BlurEffect.Radius)"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <!--Содержимое окна-->
+    <Grid>
+        <DataGrid x:Name="grid" HorizontalAlignment="Left" Height="220" Margin="10,10,0,0" VerticalAlignment="Top" Width="695" Loaded="grid_Loaded" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Path=status}" Width="75"/>
+                <DataGridTextColumn Header="ФИО" Binding="{Binding Path=fio}" Width="100" />
+                <DataGridTextColumn Header="Дата рождения (мм/дд/гггг)" Binding="{Binding Path=DOB, StringFormat=\{0:d\}}" Width="100" />
+                <DataGridTextColumn Header="Форма обучения" Binding="{Binding Path=FOE}" Width="105" />
+                <DataGridTextColumn Header="Группа" Binding="{Binding Path=Group}" Width="75" />
+                <DataGridTextColumn Header="Время обучения" Binding="{Binding Path=StudTime}" Width="102" />
+                <DataGridTextColumn Header="Номер студенческого" Binding="{Binding Path=number}" Width="130" />
+            </DataGrid.Columns>
+            <DataGrid.Effect>
+                <BlurEffect Radius="6"/>
+            </DataGrid.Effect>
+        </DataGrid>
+
+        <Button Content="Добавить" Margin="292,250,348,100" Click="Btn_Click_AddStud" MouseEnter="BtnAdd_MEnter" MouseLeave="BtnAdd_MLeave"/>
+        <Button Content="Обновить" Margin="375,250,250,100" Click="Btn_Click_Upd" MouseEnter="BtnUpd_MEnter" MouseLeave="BtnUpd_MLeave"/>
+        <Button Content="Сохранить" Margin="292,296,348,50" Click="Btn_Click_Save" MouseEnter="BtnSave_MEnter" MouseLeave="BtnSave_MLeave"/>
+        <Button Content="Закрыть" Margin="375,296,250,50" Click="Btn_Click_Close" MouseEnter="BtnClose_MEnter" MouseLeave="BtnClose_MLeave"/>
+
+        <StatusBar Margin="0,350,0,0" Background="Moccasin" Name="SBarStud">
+            <TextBlock Text=""/>
+            <StatusBarItem>
+                <TextBlock Name="CursorPos" />
+            </StatusBarItem>
+        </StatusBar>
+
+    </Grid>
+    <!--Заливка заднего фона окна-->
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Color="LightSteelBlue" Offset="0.57" />
+            <GradientStop Color="Cornsilk" Offset="1.0" />
+        </LinearGradientBrush>
+    </Window.Background>
+</Window>

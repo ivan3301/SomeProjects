@@ -1,0 +1,54 @@
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\bin\Debug\Kursovaya2.exe.config
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\bin\Debug\Kursovaya2.exe
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\bin\Debug\Kursovaya2.pdb
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\AddStudents.g.cs
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\MainWindow.g.cs
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Students.g.cs
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\App.g.cs
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2_MarkupCompile.cache
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2_MarkupCompile.lref
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\AddStudents.baml
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\MainWindow.baml
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Students.baml
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.g.resources
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.Properties.Resources.resources
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.csproj.GenerateResource.cache
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.csproj.CoreCompileInputs.cache
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.exe
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.pdb
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Teachers.g.cs
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Teachers.baml
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.csprojAssemblyReference.cache
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\AddGS.g.cs
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\GraduateStudents.g.cs
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\AddGS.baml
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\GraduateStudents.baml
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\AddTeachers.g.cs
+C:\Users\андрей\source\repos\Kursovaya2\Kursovaya2\obj\Debug\AddTeachers.baml
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\bin\Debug\Kursovaya2.exe.config
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\bin\Debug\Kursovaya2.exe
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\bin\Debug\Kursovaya2.pdb
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.csprojAssemblyReference.cache
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\AddGS.g.cs
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\AddStudents.g.cs
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\AddTeachers.g.cs
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\GraduateStudents.g.cs
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\MainWindow.g.cs
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Students.g.cs
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Teachers.g.cs
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\App.g.cs
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2_MarkupCompile.cache
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2_MarkupCompile.lref
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\AddGS.baml
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\AddStudents.baml
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\AddTeachers.baml
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\GraduateStudents.baml
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\MainWindow.baml
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Students.baml
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Teachers.baml
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.g.resources
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.Properties.Resources.resources
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.csproj.GenerateResource.cache
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.csproj.CoreCompileInputs.cache
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.exe
+F:\Qumo\Учеба\2 курс\Kursovaya2\Kursovaya2\obj\Debug\Kursovaya2.pdb
